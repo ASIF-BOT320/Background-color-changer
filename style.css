@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-item {
+    margin-left: 40px;
+    border: 2px solid #fff;
+    border-radius: 70%;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    align-items: center;
+    background-color: red;
+}
+
+#list1 {
+    background-color: #f21170;
+    border-style: none;
+    cursor: pointer;
+    color: #fff;
+}
+
+.bg-outline-dark {
+    background-color: black;
+    color: #fff;
+}
+
+h2,
+p,
+label,
+input,
+button {
+    color: #fff;
+}
+
+#list2 {
+    background-color: #325288;
+    cursor: pointer;
+    border-style: none;
+}
+
+#list3 {
+    background-color: #bdc7c9;
+    cursor: pointer;
+    border-style: none;
+}
+
+#list4 {
+    background-color: #194350;
+    cursor: pointer;
+    border-style: none;
+}
+
+#list5 {
+    background-color: #e4fbff;
+    cursor: pointer;
+    border-style: none;
+}
+
+#contain {
+    background-color: #fff;
+}
